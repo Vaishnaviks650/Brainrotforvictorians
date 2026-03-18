@@ -1,0 +1,17 @@
+The “Brainrot Translator” feature is already implemented with a functional UI and basic slang-to-formal translation. I would like to enhance and extend its capabilities to improve usability and functionality.
+
+What I plan to do
+
+- Expand the slang dictionary with more Gen Z terms and phrases
+- Improve the translation logic to handle sentences more accurately
+- Add support for multi-word phrase detection and better replacements
+- Enhance UI/UX (animations, button feedback, or styling improvements)
+- Optimize code structure for better readability and maintainability
+
+Why this is useful
+
+These improvements will make the translator more accurate, engaging, and scalable. It will enhance the overall user experience while making the feature more robust and fun to use.
+
+Additional Notes
+
+I will ensure that all enhancements integrate smoothly with the existing codebase and follow the current design style.
